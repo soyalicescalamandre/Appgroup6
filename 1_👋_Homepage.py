@@ -14,7 +14,7 @@ st.set_page_config(
 
 st.title ("Homepage")
 st.sidebar.success("Select a page above.")
-st.header('Welcome to this amazing app built by three best friends!')
+st.header('Welcome to this amazing app built by my three best friends!')
 
 
 
